@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/B2SIC/harmony-server.git
+[submodule "android"]
+	path = android
+	url = https://github.com/regular1020/harmony-android.git
+[submodule "web"]
+	path = web
+	url = https://github.com/chanw12/harmony-web.git
