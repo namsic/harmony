@@ -16,7 +16,7 @@ Harmony가 대신 전달해 드립니다!!
 
 - 보낸 메시지의 내용은 받는 사람만 확인할 수 있습니다.
 
-
+---
 ### How to use
 
 아래 중 선호하는 방법을 이용해 주세요!
@@ -25,12 +25,13 @@ Harmony가 대신 전달해 드립니다!!
 
 ![앱스토어 링크 걸린 이미지](https://w7.pngwing.com/pngs/566/36/png-transparent-app-store-iphone-apple-app-store-icon-blue-text-mobile-phones-thumbnail.png)
 
-
+---
 ### Preview
 ![sample image1]
 
 ![sample image1]
 
+---
 ### Contributor
 __김남재(namsic)__
 
