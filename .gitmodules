@@ -1,9 +1,12 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/B2SIC/harmony-server.git
+	branch = main
 [submodule "android"]
 	path = android
 	url = https://github.com/regular1020/harmony-android.git
+	branch = main
 [submodule "web"]
 	path = web
 	url = https://github.com/chanw12/harmony-web.git
+	branch = main
