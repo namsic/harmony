@@ -1,5 +1,6 @@
 ## Introduction
-Harmony project에 기여하고자 하는 분들을 위한 참고 자료입니다. 각 하위 저장소에 따라 다른 규칙을 적용하는 경우도 있으니 참고 바랍니다.
+Harmony project에 기여하고자 하는 분들을 위한 참고 자료입니다.  
+각 하위 저장소에 따라 다른 규칙을 적용하는 경우도 있으니 참고 바랍니다.
 
 ## Github flow
 본 프로젝트는 GitHub flow를 기반으로 개발을 진행하고 있습니다.
@@ -13,7 +14,7 @@ Harmony project에 기여하고자 하는 분들을 위한 참고 자료입니�
 Github flow에 대한 자세한 내용은 [Github Docs](https://docs.github.com/en/get-started/quickstart/github-flow)를 참고 바랍니다.
 
 ## Commit message
-main branch의 commit message는 아래와 같은 형태를 가집니다.
+main branch의 commit message는 아래와 같은 형태를 가집니다.  
 여러 commit을 squash merge 하려는 경우 개별 commit은 merge 후 이력에 남지 않으므로 message를 자유롭게 작성해도 됩니다.
 ```
 <type>: <subject>(<#PR_number>)
@@ -36,17 +37,18 @@ type | description
 feat | 기능 추가
 fix | 버그 및 문제 수정
 docs | 문서 관련 수정
+chore | 파일 이동, 설정 변경, build 관련
 style | code style, format 관련 수정
 refactor | 기능 변화 없는 수정 또는 최적화
 test | 테스트 관련 수정
 
 ## Issue
-해야 할 작업, 논의가 필요한 내용 등 다양한 내용을 Issue로 작성합니다.
+해야 할 작업, 논의가 필요한 내용 등 다양한 내용을 Issue로 작성합니다.  
 Issue를 이용하는 이유는 아래와 같습니다.
 - 작업을 구체적으로 정리하고 검토
 - 예정된 작업을 팀원과 공유 및 할당
 - 작업 및 논의 과정을 기록으로 남겨 이후에 참고하기 위함
 
 ## Document
-가능하면 주석을 많이 작성하거나 문서를 별도로 관리하기보다, 코드를 간결하게 작성하도록 합니다.
+가능하면 주석을 많이 작성하거나 문서를 별도로 관리하기보다, 코드를 간결하게 작성하도록 합니다.  
 문서화 주석에 대한 가이드라인(Javadoc, python docstring 등)이 있는 경우 이를 따르도록 합니다.
